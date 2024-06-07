@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-openai-integration",
+  "version": "1.0.0",
+  "description": "Integrating OpenAI with WhatsApp using Flask",
+  "main": "app.py",
+  "scripts": {
+    "start": "bash start.sh"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
